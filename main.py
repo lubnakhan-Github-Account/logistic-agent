@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 
 from agents import Agent,Runner, OpenAIChatCompletionsModel, AsyncOpenAI, set_tracing_disabled
 # ===============================================================================
-# this file is only for agent.
+# this file is only for basic agent code.
 
 load_dotenv()
 
